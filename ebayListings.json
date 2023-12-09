@@ -1,0 +1,1574 @@
+{
+  "GetSellerListResponse": {
+    "$": {
+      "xmlns": "urn:ebay:apis:eBLBaseComponents"
+    },
+    "Timestamp": [
+      "2023-11-19T12:35:01.243Z"
+    ],
+    "Ack": [
+      "Success"
+    ],
+    "Version": [
+      "1271"
+    ],
+    "Build": [
+      "E1271_CORE_APISELLING_19187371_R1"
+    ],
+    "PaginationResult": [
+      {
+        "TotalNumberOfPages": [
+          "1963"
+        ],
+        "TotalNumberOfEntries": [
+          "9815"
+        ]
+      }
+    ],
+    "HasMoreItems": [
+      "true"
+    ],
+    "ItemArray": [
+      {
+        "Item": [
+          {
+            "AutoPay": [
+              "false"
+            ],
+            "BuyerProtection": [
+              "ItemIneligible"
+            ],
+            "Country": [
+              "US"
+            ],
+            "Currency": [
+              "USD"
+            ],
+            "ItemID": [
+              "134807396899"
+            ],
+            "ListingDetails": [
+              {
+                "StartTime": [
+                  "2023-11-13T17:10:03.000Z"
+                ],
+                "EndTime": [
+                  "2023-12-13T17:10:03.000Z"
+                ],
+                "ViewItemURL": [
+                  "https://www.ebay.com/itm/1802-Draped-Bust-Large-Cent-Circulated-9339-/134807396899"
+                ],
+                "HasUnansweredQuestions": [
+                  "false"
+                ],
+                "HasPublicMessages": [
+                  "false"
+                ],
+                "ViewItemURLForNaturalSearch": [
+                  "https://www.ebay.com/itm/1802-Draped-Bust-Large-Cent-Circulated-9339-/134807396899"
+                ]
+              }
+            ],
+            "ListingDuration": [
+              "GTC"
+            ],
+            "Location": [
+              "Frederick, Maryland"
+            ],
+            "PrimaryCategory": [
+              {
+                "CategoryID": [
+                  "11947"
+                ],
+                "CategoryName": [
+                  "Coins & Paper Money:Coins: US:Large Cents:Draped Bust (1796-1807)"
+                ]
+              }
+            ],
+            "Quantity": [
+              "1"
+            ],
+            "IsItemEMSEligible": [
+              "false"
+            ],
+            "ReviseStatus": [
+              {
+                "ItemRevised": [
+                  "false"
+                ]
+              }
+            ],
+            "SellingStatus": [
+              {
+                "BidCount": [
+                  "0"
+                ],
+                "BidIncrement": [
+                  {
+                    "_": "0.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "ConvertedCurrentPrice": [
+                  {
+                    "_": "189.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "CurrentPrice": [
+                  {
+                    "_": "189.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "MinimumToBid": [
+                  {
+                    "_": "189.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "QuantitySold": [
+                  "0"
+                ],
+                "SecondChanceEligible": [
+                  "false"
+                ],
+                "ListingStatus": [
+                  "Active"
+                ]
+              }
+            ],
+            "ShippingDetails": [
+              {
+                "ShippingDiscountProfileID": [
+                  "0"
+                ],
+                "InternationalShippingDiscountProfileID": [
+                  "0"
+                ]
+              }
+            ],
+            "ShipToLocations": [
+              "US"
+            ],
+            "Site": [
+              "US"
+            ],
+            "Storefront": [
+              {
+                "StoreCategoryID": [
+                  "5897742010"
+                ],
+                "StoreCategory2ID": [
+                  "41031906010"
+                ],
+                "StoreURL": [
+                  "https://www.ebay.com/str/mbarrcoins"
+                ]
+              }
+            ],
+            "TimeLeft": [
+              "P24DT4H35M2S"
+            ],
+            "Title": [
+              "1802 Draped Bust Large Cent - Circulated *9339"
+            ],
+            "UUID": [
+              "DE3C715EB27D4799A356D0E0D531B4BB"
+            ],
+            "WatchCount": [
+              "0"
+            ],
+            "BestOfferDetails": [
+              {
+                "BestOfferCount": [
+                  "0"
+                ],
+                "BestOfferEnabled": [
+                  "true"
+                ],
+                "NewBestOffer": [
+                  "false"
+                ]
+              }
+            ],
+            "LocationDefaulted": [
+              "true"
+            ],
+            "BuyerResponsibleForShipping": [
+              "false"
+            ],
+            "SKU": [
+              "DUK019339"
+            ],
+            "PostalCode": [
+              "21701"
+            ],
+            "PictureDetails": [
+              {
+                "PhotoDisplay": [
+                  "PicturePack"
+                ],
+                "PictureURL": [
+                  "https://i.ebayimg.com/00/s/MTYwMFgxNTc5/z/JAAAAOSwTNtlUlhl/$_57.JPG?set_id=880000500F",
+                  "https://i.ebayimg.com/00/s/MTYwMFgxNTg1/z/YDQAAOSwhP9lUlhn/$_57.JPG?set_id=880000500F",
+                  "https://i.ebayimg.com/00/s/MTIyMlgxMjgw/z/6nkAAOSwH3RlUlho/$_57.JPG?set_id=880000500F"
+                ]
+              }
+            ],
+            "ProxyItem": [
+              "false"
+            ],
+            "BuyerGuaranteePrice": [
+              {
+                "_": "20000.0",
+                "$": {
+                  "currencyID": "USD"
+                }
+              }
+            ],
+            "BuyerRequirementDetails": [
+              {
+                "ShipToRegistrationCountry": [
+                  "true"
+                ],
+                "MaximumItemRequirements": [
+                  {
+                    "MaximumItemCount": [
+                      "10"
+                    ],
+                    "MinimumFeedbackScore": [
+                      "0"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "ReturnPolicy": [
+              {
+                "RefundOption": [
+                  "MoneyBack"
+                ],
+                "Refund": [
+                  "Money Back"
+                ],
+                "ReturnsWithinOption": [
+                  "Days_30"
+                ],
+                "ReturnsWithin": [
+                  "30 Days"
+                ],
+                "ReturnsAcceptedOption": [
+                  "ReturnsAccepted"
+                ],
+                "ReturnsAccepted": [
+                  "Returns Accepted"
+                ],
+                "ShippingCostPaidByOption": [
+                  "Seller"
+                ],
+                "ShippingCostPaidBy": [
+                  "Seller"
+                ],
+                "InternationalReturnsAcceptedOption": [
+                  "ReturnsNotAccepted"
+                ]
+              }
+            ],
+            "PostCheckoutExperienceEnabled": [
+              "false"
+            ],
+            "SellerProfiles": [
+              {
+                "SellerShippingProfile": [
+                  {
+                    "ShippingProfileID": [
+                      "123551532010"
+                    ],
+                    "ShippingProfileName": [
+                      "Flat:Standard Shipp(Free),1 business day"
+                    ]
+                  }
+                ],
+                "SellerReturnProfile": [
+                  {
+                    "ReturnProfileID": [
+                      "227716690010"
+                    ],
+                    "ReturnProfileName": [
+                      "free 30 days money back 3f67f3fdd0bb000"
+                    ]
+                  }
+                ],
+                "SellerPaymentProfile": [
+                  {
+                    "PaymentProfileID": [
+                      "93422314010"
+                    ],
+                    "PaymentProfileName": [
+                      "PayPal Copy"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "RelistParentID": [
+              "126136522583"
+            ],
+            "HideFromSearch": [
+              "false"
+            ],
+            "eBayPlus": [
+              "false"
+            ],
+            "eBayPlusEligible": [
+              "false"
+            ],
+            "IsSecureDescription": [
+              "true"
+            ]
+          },
+          {
+            "AutoPay": [
+              "false"
+            ],
+            "BuyerProtection": [
+              "ItemIneligible"
+            ],
+            "Country": [
+              "US"
+            ],
+            "Currency": [
+              "USD"
+            ],
+            "ItemID": [
+              "134807651297"
+            ],
+            "ListingDetails": [
+              {
+                "StartTime": [
+                  "2023-11-13T20:53:55.000Z"
+                ],
+                "EndTime": [
+                  "2023-12-13T20:53:55.000Z"
+                ],
+                "ViewItemURL": [
+                  "https://www.ebay.com/itm/2004-P-Lewis-Clark-Commemorative-Silver-1-US-Mint-Coin-Pouch-Set-COA-9011-/134807651297"
+                ],
+                "HasUnansweredQuestions": [
+                  "false"
+                ],
+                "HasPublicMessages": [
+                  "false"
+                ],
+                "ViewItemURLForNaturalSearch": [
+                  "https://www.ebay.com/itm/2004-P-Lewis-Clark-Commemorative-Silver-1-US-Mint-Coin-Pouch-Set-COA-9011-/134807651297"
+                ]
+              }
+            ],
+            "ListingDuration": [
+              "GTC"
+            ],
+            "Location": [
+              "Frederick, Maryland"
+            ],
+            "PrimaryCategory": [
+              {
+                "CategoryID": [
+                  "179533"
+                ],
+                "CategoryName": [
+                  "Coins & Paper Money:Coins: US:Commemorative:Modern Silver/Clad (1982-Now)"
+                ]
+              }
+            ],
+            "Quantity": [
+              "1"
+            ],
+            "IsItemEMSEligible": [
+              "false"
+            ],
+            "ReviseStatus": [
+              {
+                "ItemRevised": [
+                  "false"
+                ]
+              }
+            ],
+            "SellingStatus": [
+              {
+                "BidCount": [
+                  "0"
+                ],
+                "BidIncrement": [
+                  {
+                    "_": "0.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "ConvertedCurrentPrice": [
+                  {
+                    "_": "79.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "CurrentPrice": [
+                  {
+                    "_": "79.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "MinimumToBid": [
+                  {
+                    "_": "79.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "QuantitySold": [
+                  "0"
+                ],
+                "SecondChanceEligible": [
+                  "false"
+                ],
+                "ListingStatus": [
+                  "Active"
+                ]
+              }
+            ],
+            "ShippingDetails": [
+              {
+                "ShippingDiscountProfileID": [
+                  "0"
+                ],
+                "InternationalShippingDiscountProfileID": [
+                  "0"
+                ]
+              }
+            ],
+            "ShipToLocations": [
+              "US"
+            ],
+            "Site": [
+              "US"
+            ],
+            "Storefront": [
+              {
+                "StoreCategoryID": [
+                  "5897739010"
+                ],
+                "StoreCategory2ID": [
+                  "0"
+                ],
+                "StoreURL": [
+                  "https://www.ebay.com/str/mbarrcoins"
+                ]
+              }
+            ],
+            "TimeLeft": [
+              "P24DT8H18M54S"
+            ],
+            "Title": [
+              "2004-P Lewis & Clark Commemorative Silver $1 US Mint Coin & Pouch Set COA *9011"
+            ],
+            "UUID": [
+              "0819FC638FB142A49A21C5F432559D37"
+            ],
+            "WatchCount": [
+              "0"
+            ],
+            "BestOfferDetails": [
+              {
+                "BestOfferCount": [
+                  "0"
+                ],
+                "BestOfferEnabled": [
+                  "true"
+                ],
+                "NewBestOffer": [
+                  "false"
+                ]
+              }
+            ],
+            "LocationDefaulted": [
+              "true"
+            ],
+            "BuyerResponsibleForShipping": [
+              "false"
+            ],
+            "SKU": [
+              "DUK049011"
+            ],
+            "PostalCode": [
+              "21701"
+            ],
+            "PictureDetails": [
+              {
+                "PhotoDisplay": [
+                  "PicturePack"
+                ],
+                "PictureURL": [
+                  "https://mbarrantiques.dyndns.org/images/DUK049011%20(1).jpg",
+                  "https://mbarrantiques.dyndns.org/images/DUK049011%20(2).jpg",
+                  "https://mbarrantiques.dyndns.org/images/DUK049011%20(3).jpg",
+                  "https://mbarrantiques.dyndns.org/images/DUK049011%20(4).jpg",
+                  "https://mbarrantiques.dyndns.org/images/ebayFinalPhoto19.08.20.jpg"
+                ]
+              }
+            ],
+            "ProxyItem": [
+              "false"
+            ],
+            "BuyerGuaranteePrice": [
+              {
+                "_": "20000.0",
+                "$": {
+                  "currencyID": "USD"
+                }
+              }
+            ],
+            "BuyerRequirementDetails": [
+              {
+                "ShipToRegistrationCountry": [
+                  "true"
+                ],
+                "MaximumItemRequirements": [
+                  {
+                    "MaximumItemCount": [
+                      "10"
+                    ],
+                    "MinimumFeedbackScore": [
+                      "0"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "ReturnPolicy": [
+              {
+                "RefundOption": [
+                  "MoneyBack"
+                ],
+                "Refund": [
+                  "Money Back"
+                ],
+                "ReturnsWithinOption": [
+                  "Days_30"
+                ],
+                "ReturnsWithin": [
+                  "30 Days"
+                ],
+                "ReturnsAcceptedOption": [
+                  "ReturnsAccepted"
+                ],
+                "ReturnsAccepted": [
+                  "Returns Accepted"
+                ],
+                "ShippingCostPaidByOption": [
+                  "Seller"
+                ],
+                "ShippingCostPaidBy": [
+                  "Seller"
+                ],
+                "InternationalReturnsAcceptedOption": [
+                  "ReturnsNotAccepted"
+                ]
+              }
+            ],
+            "PostCheckoutExperienceEnabled": [
+              "false"
+            ],
+            "SellerProfiles": [
+              {
+                "SellerShippingProfile": [
+                  {
+                    "ShippingProfileID": [
+                      "123551532010"
+                    ],
+                    "ShippingProfileName": [
+                      "Flat:Standard Shipp(Free),1 business day"
+                    ]
+                  }
+                ],
+                "SellerReturnProfile": [
+                  {
+                    "ReturnProfileID": [
+                      "227716690010"
+                    ],
+                    "ReturnProfileName": [
+                      "free 30 days money back 3f67f3fdd0bb000"
+                    ]
+                  }
+                ],
+                "SellerPaymentProfile": [
+                  {
+                    "PaymentProfileID": [
+                      "93422314010"
+                    ],
+                    "PaymentProfileName": [
+                      "PayPal Copy"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "RelistParentID": [
+              "364528626769"
+            ],
+            "HideFromSearch": [
+              "false"
+            ],
+            "eBayPlus": [
+              "false"
+            ],
+            "eBayPlusEligible": [
+              "false"
+            ],
+            "IsSecureDescription": [
+              "true"
+            ]
+          },
+          {
+            "AutoPay": [
+              "false"
+            ],
+            "BuyerProtection": [
+              "ItemIneligible"
+            ],
+            "Country": [
+              "US"
+            ],
+            "Currency": [
+              "USD"
+            ],
+            "ItemID": [
+              "364578443655"
+            ],
+            "ListingDetails": [
+              {
+                "StartTime": [
+                  "2023-11-13T20:54:06.000Z"
+                ],
+                "EndTime": [
+                  "2023-12-13T20:54:06.000Z"
+                ],
+                "ViewItemURL": [
+                  "https://www.ebay.com/itm/PF70-UCAM-1977-FM-Panama-100-Balboa-Gold-First-Day-Minting-NGC-0129-/364578443655"
+                ],
+                "HasUnansweredQuestions": [
+                  "false"
+                ],
+                "HasPublicMessages": [
+                  "false"
+                ],
+                "ViewItemURLForNaturalSearch": [
+                  "https://www.ebay.com/itm/PF70-UCAM-1977-FM-Panama-100-Balboa-Gold-First-Day-Minting-NGC-0129-/364578443655"
+                ]
+              }
+            ],
+            "ListingDuration": [
+              "GTC"
+            ],
+            "Location": [
+              "Frederick, Maryland"
+            ],
+            "PrimaryCategory": [
+              {
+                "CategoryID": [
+                  "257"
+                ],
+                "CategoryName": [
+                  "Coins & Paper Money:Coins: World:Other Coins of the World"
+                ]
+              }
+            ],
+            "Quantity": [
+              "1"
+            ],
+            "IsItemEMSEligible": [
+              "false"
+            ],
+            "ReviseStatus": [
+              {
+                "ItemRevised": [
+                  "false"
+                ]
+              }
+            ],
+            "SellingStatus": [
+              {
+                "BidCount": [
+                  "0"
+                ],
+                "BidIncrement": [
+                  {
+                    "_": "0.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "ConvertedCurrentPrice": [
+                  {
+                    "_": "895.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "CurrentPrice": [
+                  {
+                    "_": "895.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "MinimumToBid": [
+                  {
+                    "_": "895.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "QuantitySold": [
+                  "0"
+                ],
+                "SecondChanceEligible": [
+                  "false"
+                ],
+                "ListingStatus": [
+                  "Active"
+                ]
+              }
+            ],
+            "ShippingDetails": [
+              {
+                "ShippingDiscountProfileID": [
+                  "0"
+                ],
+                "InternationalShippingDiscountProfileID": [
+                  "0"
+                ]
+              }
+            ],
+            "ShipToLocations": [
+              "US"
+            ],
+            "Site": [
+              "US"
+            ],
+            "Storefront": [
+              {
+                "StoreCategoryID": [
+                  "5897738010"
+                ],
+                "StoreCategory2ID": [
+                  "0"
+                ],
+                "StoreURL": [
+                  "https://www.ebay.com/str/mbarrcoins"
+                ]
+              }
+            ],
+            "TimeLeft": [
+              "P24DT8H19M5S"
+            ],
+            "Title": [
+              "PF70 UCAM 1977 FM Panama 100 Balboa Gold First Day Of Minting NGC *0129"
+            ],
+            "UUID": [
+              "C0B9D63AA56D46A0942DD845940D4B08"
+            ],
+            "WatchCount": [
+              "0"
+            ],
+            "BestOfferDetails": [
+              {
+                "BestOfferCount": [
+                  "0"
+                ],
+                "BestOfferEnabled": [
+                  "true"
+                ],
+                "NewBestOffer": [
+                  "false"
+                ]
+              }
+            ],
+            "LocationDefaulted": [
+              "true"
+            ],
+            "BuyerResponsibleForShipping": [
+              "false"
+            ],
+            "SKU": [
+              "DUK050129"
+            ],
+            "PostalCode": [
+              "21701"
+            ],
+            "PictureDetails": [
+              {
+                "PhotoDisplay": [
+                  "PicturePack"
+                ],
+                "PictureURL": [
+                  "https://i.ebayimg.com/00/s/MTYwMFgxMjU1/z/A6IAAOSwy19kkw4r/$_1.JPG?set_id=880000500F",
+                  "https://i.ebayimg.com/00/s/MTYwMFgxMjU1/z/Kz4AAOSwpuVkkw4r/$_1.JPG?set_id=880000500F",
+                  "https://i.ebayimg.com/00/s/MTIyMlgxMjgw/z/KxgAAOSw4Adkkw4r/$_1.JPG?set_id=880000500F"
+                ]
+              }
+            ],
+            "ProxyItem": [
+              "false"
+            ],
+            "BuyerGuaranteePrice": [
+              {
+                "_": "20000.0",
+                "$": {
+                  "currencyID": "USD"
+                }
+              }
+            ],
+            "BuyerRequirementDetails": [
+              {
+                "ShipToRegistrationCountry": [
+                  "true"
+                ],
+                "MaximumItemRequirements": [
+                  {
+                    "MaximumItemCount": [
+                      "10"
+                    ],
+                    "MinimumFeedbackScore": [
+                      "0"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "ReturnPolicy": [
+              {
+                "RefundOption": [
+                  "MoneyBack"
+                ],
+                "Refund": [
+                  "Money Back"
+                ],
+                "ReturnsWithinOption": [
+                  "Days_30"
+                ],
+                "ReturnsWithin": [
+                  "30 Days"
+                ],
+                "ReturnsAcceptedOption": [
+                  "ReturnsAccepted"
+                ],
+                "ReturnsAccepted": [
+                  "Returns Accepted"
+                ],
+                "ShippingCostPaidByOption": [
+                  "Seller"
+                ],
+                "ShippingCostPaidBy": [
+                  "Seller"
+                ],
+                "InternationalReturnsAcceptedOption": [
+                  "ReturnsNotAccepted"
+                ]
+              }
+            ],
+            "PostCheckoutExperienceEnabled": [
+              "false"
+            ],
+            "SellerProfiles": [
+              {
+                "SellerShippingProfile": [
+                  {
+                    "ShippingProfileID": [
+                      "123551532010"
+                    ],
+                    "ShippingProfileName": [
+                      "Flat:Standard Shipp(Free),1 business day"
+                    ]
+                  }
+                ],
+                "SellerReturnProfile": [
+                  {
+                    "ReturnProfileID": [
+                      "227716690010"
+                    ],
+                    "ReturnProfileName": [
+                      "free 30 days money back 3f67f3fdd0bb000"
+                    ]
+                  }
+                ],
+                "SellerPaymentProfile": [
+                  {
+                    "PaymentProfileID": [
+                      "93422314010"
+                    ],
+                    "PaymentProfileName": [
+                      "PayPal Copy"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "RelistParentID": [
+              "126136742723"
+            ],
+            "HideFromSearch": [
+              "false"
+            ],
+            "eBayPlus": [
+              "false"
+            ],
+            "eBayPlusEligible": [
+              "false"
+            ],
+            "IsSecureDescription": [
+              "true"
+            ]
+          },
+          {
+            "AutoPay": [
+              "false"
+            ],
+            "BuyerProtection": [
+              "ItemIneligible"
+            ],
+            "Country": [
+              "US"
+            ],
+            "Currency": [
+              "USD"
+            ],
+            "ItemID": [
+              "126184675824"
+            ],
+            "ListingDetails": [
+              {
+                "StartTime": [
+                  "2023-11-13T20:54:13.000Z"
+                ],
+                "EndTime": [
+                  "2023-12-13T20:54:13.000Z"
+                ],
+                "ViewItemURL": [
+                  "https://www.ebay.com/itm/1921-Morgan-Silver-Dollar-Rainbow-Toned-4466-/126184675824"
+                ],
+                "HasUnansweredQuestions": [
+                  "false"
+                ],
+                "HasPublicMessages": [
+                  "false"
+                ],
+                "ViewItemURLForNaturalSearch": [
+                  "https://www.ebay.com/itm/1921-Morgan-Silver-Dollar-Rainbow-Toned-4466-/126184675824"
+                ]
+              }
+            ],
+            "ListingDuration": [
+              "GTC"
+            ],
+            "Location": [
+              "Frederick, Maryland"
+            ],
+            "PrimaryCategory": [
+              {
+                "CategoryID": [
+                  "39464"
+                ],
+                "CategoryName": [
+                  "Coins & Paper Money:Coins: US:Dollars:Morgan (1878-1921)"
+                ]
+              }
+            ],
+            "Quantity": [
+              "1"
+            ],
+            "IsItemEMSEligible": [
+              "false"
+            ],
+            "ReviseStatus": [
+              {
+                "ItemRevised": [
+                  "false"
+                ]
+              }
+            ],
+            "SellingStatus": [
+              {
+                "BidCount": [
+                  "0"
+                ],
+                "BidIncrement": [
+                  {
+                    "_": "0.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "ConvertedCurrentPrice": [
+                  {
+                    "_": "449.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "CurrentPrice": [
+                  {
+                    "_": "449.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "MinimumToBid": [
+                  {
+                    "_": "449.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "QuantitySold": [
+                  "0"
+                ],
+                "SecondChanceEligible": [
+                  "false"
+                ],
+                "ListingStatus": [
+                  "Active"
+                ]
+              }
+            ],
+            "ShippingDetails": [
+              {
+                "ShippingDiscountProfileID": [
+                  "0"
+                ],
+                "InternationalShippingDiscountProfileID": [
+                  "0"
+                ]
+              }
+            ],
+            "ShipToLocations": [
+              "US"
+            ],
+            "Site": [
+              "US"
+            ],
+            "Storefront": [
+              {
+                "StoreCategoryID": [
+                  "6208461010"
+                ],
+                "StoreCategory2ID": [
+                  "0"
+                ],
+                "StoreURL": [
+                  "https://www.ebay.com/str/mbarrcoins"
+                ]
+              }
+            ],
+            "TimeLeft": [
+              "P24DT8H19M12S"
+            ],
+            "Title": [
+              "1921 Morgan Silver Dollar Rainbow Toned *4466"
+            ],
+            "UUID": [
+              "FAF9C508F82942E48243FF4A106B6585"
+            ],
+            "WatchCount": [
+              "0"
+            ],
+            "BestOfferDetails": [
+              {
+                "BestOfferCount": [
+                  "0"
+                ],
+                "BestOfferEnabled": [
+                  "true"
+                ],
+                "NewBestOffer": [
+                  "false"
+                ]
+              }
+            ],
+            "LocationDefaulted": [
+              "true"
+            ],
+            "BuyerResponsibleForShipping": [
+              "false"
+            ],
+            "SKU": [
+              "DUK044466"
+            ],
+            "PostalCode": [
+              "21701"
+            ],
+            "PictureDetails": [
+              {
+                "PhotoDisplay": [
+                  "PicturePack"
+                ],
+                "PictureURL": [
+                  "https://i.ebayimg.com/00/s/MTU1OVgxNjAw/z/h34AAOSwByFkkzuf/$_1.JPG?set_id=880000500F",
+                  "https://i.ebayimg.com/00/s/MTU1OVgxNjAw/z/Ak8AAOSwLXlkkzuf/$_1.JPG?set_id=880000500F",
+                  "https://i.ebayimg.com/00/s/MTIyMlgxMjgw/z/cd8AAOSwADtkkzuf/$_1.JPG?set_id=880000500F"
+                ]
+              }
+            ],
+            "ProxyItem": [
+              "false"
+            ],
+            "BuyerGuaranteePrice": [
+              {
+                "_": "20000.0",
+                "$": {
+                  "currencyID": "USD"
+                }
+              }
+            ],
+            "BuyerRequirementDetails": [
+              {
+                "ShipToRegistrationCountry": [
+                  "true"
+                ],
+                "MaximumItemRequirements": [
+                  {
+                    "MaximumItemCount": [
+                      "10"
+                    ],
+                    "MinimumFeedbackScore": [
+                      "0"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "ReturnPolicy": [
+              {
+                "RefundOption": [
+                  "MoneyBack"
+                ],
+                "Refund": [
+                  "Money Back"
+                ],
+                "ReturnsWithinOption": [
+                  "Days_30"
+                ],
+                "ReturnsWithin": [
+                  "30 Days"
+                ],
+                "ReturnsAcceptedOption": [
+                  "ReturnsAccepted"
+                ],
+                "ReturnsAccepted": [
+                  "Returns Accepted"
+                ],
+                "ShippingCostPaidByOption": [
+                  "Seller"
+                ],
+                "ShippingCostPaidBy": [
+                  "Seller"
+                ],
+                "InternationalReturnsAcceptedOption": [
+                  "ReturnsNotAccepted"
+                ]
+              }
+            ],
+            "PostCheckoutExperienceEnabled": [
+              "false"
+            ],
+            "SellerProfiles": [
+              {
+                "SellerShippingProfile": [
+                  {
+                    "ShippingProfileID": [
+                      "123551532010"
+                    ],
+                    "ShippingProfileName": [
+                      "Flat:Standard Shipp(Free),1 business day"
+                    ]
+                  }
+                ],
+                "SellerReturnProfile": [
+                  {
+                    "ReturnProfileID": [
+                      "227716690010"
+                    ],
+                    "ReturnProfileName": [
+                      "free 30 days money back 3f67f3fdd0bb000"
+                    ]
+                  }
+                ],
+                "SellerPaymentProfile": [
+                  {
+                    "PaymentProfileID": [
+                      "93422314010"
+                    ],
+                    "PaymentProfileName": [
+                      "PayPal Copy"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "RelistParentID": [
+              "134767013790"
+            ],
+            "HideFromSearch": [
+              "false"
+            ],
+            "eBayPlus": [
+              "false"
+            ],
+            "eBayPlusEligible": [
+              "false"
+            ],
+            "IsSecureDescription": [
+              "true"
+            ]
+          },
+          {
+            "AutoPay": [
+              "false"
+            ],
+            "BuyerProtection": [
+              "ItemIneligible"
+            ],
+            "Country": [
+              "US"
+            ],
+            "Currency": [
+              "USD"
+            ],
+            "ItemID": [
+              "126184675893"
+            ],
+            "ListingDetails": [
+              {
+                "StartTime": [
+                  "2023-11-13T20:54:20.000Z"
+                ],
+                "EndTime": [
+                  "2023-12-13T20:54:20.000Z"
+                ],
+                "ViewItemURL": [
+                  "https://www.ebay.com/itm/PF65-1950-Franklin-Half-Dollar-Graded-NGC-Frosty-5709-/126184675893"
+                ],
+                "HasUnansweredQuestions": [
+                  "false"
+                ],
+                "HasPublicMessages": [
+                  "false"
+                ],
+                "ViewItemURLForNaturalSearch": [
+                  "https://www.ebay.com/itm/PF65-1950-Franklin-Half-Dollar-Graded-NGC-Frosty-5709-/126184675893"
+                ]
+              }
+            ],
+            "ListingDuration": [
+              "GTC"
+            ],
+            "Location": [
+              "Frederick, Maryland"
+            ],
+            "PrimaryCategory": [
+              {
+                "CategoryID": [
+                  "11973"
+                ],
+                "CategoryName": [
+                  "Coins & Paper Money:Coins: US:Half Dollars:Franklin (1948-63)"
+                ]
+              }
+            ],
+            "Quantity": [
+              "1"
+            ],
+            "IsItemEMSEligible": [
+              "false"
+            ],
+            "ReviseStatus": [
+              {
+                "ItemRevised": [
+                  "false"
+                ]
+              }
+            ],
+            "SellingStatus": [
+              {
+                "BidCount": [
+                  "0"
+                ],
+                "BidIncrement": [
+                  {
+                    "_": "0.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "ConvertedCurrentPrice": [
+                  {
+                    "_": "1249.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "CurrentPrice": [
+                  {
+                    "_": "1249.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "MinimumToBid": [
+                  {
+                    "_": "1249.0",
+                    "$": {
+                      "currencyID": "USD"
+                    }
+                  }
+                ],
+                "QuantitySold": [
+                  "0"
+                ],
+                "SecondChanceEligible": [
+                  "false"
+                ],
+                "ListingStatus": [
+                  "Active"
+                ]
+              }
+            ],
+            "ShippingDetails": [
+              {
+                "ShippingDiscountProfileID": [
+                  "0"
+                ],
+                "InternationalShippingDiscountProfileID": [
+                  "0"
+                ]
+              }
+            ],
+            "ShipToLocations": [
+              "US"
+            ],
+            "Site": [
+              "US"
+            ],
+            "Storefront": [
+              {
+                "StoreCategoryID": [
+                  "5931966010"
+                ],
+                "StoreCategory2ID": [
+                  "0"
+                ],
+                "StoreURL": [
+                  "https://www.ebay.com/str/mbarrcoins"
+                ]
+              }
+            ],
+            "TimeLeft": [
+              "P24DT8H19M19S"
+            ],
+            "Title": [
+              "PF65 1950 Franklin Half Dollar - Graded NGC Frosty *5709"
+            ],
+            "UUID": [
+              "E42DDFFCF01943E599AF1AA2D56DC7BD"
+            ],
+            "WatchCount": [
+              "0"
+            ],
+            "BestOfferDetails": [
+              {
+                "BestOfferCount": [
+                  "0"
+                ],
+                "BestOfferEnabled": [
+                  "true"
+                ],
+                "NewBestOffer": [
+                  "false"
+                ]
+              }
+            ],
+            "LocationDefaulted": [
+              "true"
+            ],
+            "BuyerResponsibleForShipping": [
+              "false"
+            ],
+            "SKU": [
+              "DUK035709"
+            ],
+            "PostalCode": [
+              "21701"
+            ],
+            "PictureDetails": [
+              {
+                "PhotoDisplay": [
+                  "PicturePack"
+                ],
+                "PictureURL": [
+                  "https://i.ebayimg.com/00/s/MTYwMFgxMTU2/z/wXUAAOSwx5Bkkyyo/$_1.JPG?set_id=880000500F",
+                  "https://i.ebayimg.com/00/s/MTYwMFgxMTU2/z/aDcAAOSw21Nkkyyo/$_1.JPG?set_id=880000500F",
+                  "https://i.ebayimg.com/00/s/MTIyMlgxMjgw/z/qNcAAOSwa-9kkyyn/$_1.JPG?set_id=880000500F"
+                ]
+              }
+            ],
+            "ProxyItem": [
+              "false"
+            ],
+            "BuyerGuaranteePrice": [
+              {
+                "_": "20000.0",
+                "$": {
+                  "currencyID": "USD"
+                }
+              }
+            ],
+            "BuyerRequirementDetails": [
+              {
+                "ShipToRegistrationCountry": [
+                  "true"
+                ],
+                "MaximumItemRequirements": [
+                  {
+                    "MaximumItemCount": [
+                      "10"
+                    ],
+                    "MinimumFeedbackScore": [
+                      "0"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "ReturnPolicy": [
+              {
+                "RefundOption": [
+                  "MoneyBack"
+                ],
+                "Refund": [
+                  "Money Back"
+                ],
+                "ReturnsWithinOption": [
+                  "Days_30"
+                ],
+                "ReturnsWithin": [
+                  "30 Days"
+                ],
+                "ReturnsAcceptedOption": [
+                  "ReturnsAccepted"
+                ],
+                "ReturnsAccepted": [
+                  "Returns Accepted"
+                ],
+                "ShippingCostPaidByOption": [
+                  "Seller"
+                ],
+                "ShippingCostPaidBy": [
+                  "Seller"
+                ],
+                "InternationalReturnsAcceptedOption": [
+                  "ReturnsNotAccepted"
+                ]
+              }
+            ],
+            "PostCheckoutExperienceEnabled": [
+              "false"
+            ],
+            "SellerProfiles": [
+              {
+                "SellerShippingProfile": [
+                  {
+                    "ShippingProfileID": [
+                      "123551532010"
+                    ],
+                    "ShippingProfileName": [
+                      "Flat:Standard Shipp(Free),1 business day"
+                    ]
+                  }
+                ],
+                "SellerReturnProfile": [
+                  {
+                    "ReturnProfileID": [
+                      "227716690010"
+                    ],
+                    "ReturnProfileName": [
+                      "free 30 days money back 3f67f3fdd0bb000"
+                    ]
+                  }
+                ],
+                "SellerPaymentProfile": [
+                  {
+                    "PaymentProfileID": [
+                      "93422314010"
+                    ],
+                    "PaymentProfileName": [
+                      "PayPal Copy"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "RelistParentID": [
+              "364528626823"
+            ],
+            "HideFromSearch": [
+              "false"
+            ],
+            "eBayPlus": [
+              "false"
+            ],
+            "eBayPlusEligible": [
+              "false"
+            ],
+            "IsSecureDescription": [
+              "true"
+            ]
+          }
+        ]
+      }
+    ],
+    "ItemsPerPage": [
+      "5"
+    ],
+    "PageNumber": [
+      "1"
+    ],
+    "ReturnedItemCountActual": [
+      "5"
+    ]
+  }
+}

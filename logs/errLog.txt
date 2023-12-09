@@ -1,0 +1,11 @@
+20230628	14:33:41	fd7b9b0f-b672-4dd8-bcbf-3db599ded601	SyntaxError: Unexpected token l in JSON at position 0
+20230926	00:55:24	f680a077-141d-4766-bba5-63389b5b3839	Error: Not allowed by CORS
+20230926	00:55:24	786d1424-8d4c-4d6a-995b-6dd4448c5610	Error: Not allowed by CORS
+20230926	00:55:24	a1039a3b-15ad-41c0-989b-36aebe28bc25	Error: Not allowed by CORS
+20230926	00:56:27	b93ea213-5ed7-459b-9f14-0143b87b6686	Error: Not allowed by CORS
+20231123	22:20:15	87d5366d-b9d4-4e49-9fb7-bf4d83e66bd6	Error: Not allowed by CORS
+20231123	22:23:50	bfc817fe-7884-4e59-8376-d41c7a94e579	Error: Not allowed by CORS
+20231123	22:23:50	b334934c-4c59-43b4-a26f-2a8ee950230c	Error: Not allowed by CORS
+20231123	22:23:50	6638b054-b94e-487c-8d80-40681af66e71	Error: Not allowed by CORS
+20231206	23:22:24	cdc84355-e2d4-4c63-853a-cc8efc1c7871	ReferenceError: __dirname is not defined
+20231206	23:31:23	5a366c3e-64d3-4da6-b937-37fcf1f7c93a	ReferenceError: __dirname is not defined

@@ -1,0 +1,1 @@
+UPDATE tb_users SET usr_refresh_token = 'ThisISRefreshToken' WHERE usr_id = 33;

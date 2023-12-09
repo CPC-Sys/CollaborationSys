@@ -1,0 +1,1 @@
+SELECT usr_email, usr_password FROM tb_users WHERE usr_email = 'perez@gmail.com' AND usr_password = 'fste#s';
